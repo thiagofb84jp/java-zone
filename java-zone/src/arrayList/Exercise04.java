@@ -1,8 +1,5 @@
 package arrayList;
 
-import java.util.Arrays;
-import java.util.OptionalDouble;
-
 public class Exercise04 {
     /**
      * 4. Write a Java program to calculate the average value of array elements.

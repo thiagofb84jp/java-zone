@@ -1,6 +1,5 @@
 package arrayList;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Exercise01 {

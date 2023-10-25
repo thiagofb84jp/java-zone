@@ -1,7 +1,5 @@
 package arrayList;
 
-import javax.swing.*;
-
 public class Exercise03 {
     /**
      * 3. Write a Java program to print the following grid.

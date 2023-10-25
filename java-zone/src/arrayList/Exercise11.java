@@ -1,6 +1,5 @@
 package arrayList;
 
-import java.awt.image.AreaAveragingScaleFilter;
 import java.util.ArrayList;
 
 public class Exercise11 {

@@ -1,10 +1,6 @@
 package arrayList;
 
-import com.sun.jdi.ArrayReference;
-
-import java.sql.SQLOutput;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
