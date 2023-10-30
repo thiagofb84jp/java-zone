@@ -1,4 +1,4 @@
-package objectOrientedProgramming;
+package objectOrientedProgramming.circle;
 
 public class CircleTest {
     public static void main(String[] args) {
