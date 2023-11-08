@@ -1,4 +1,4 @@
-package objectOrientedProgramming;
+package objectOrientedProgramming.account;
 
 import java.util.ArrayList;
 

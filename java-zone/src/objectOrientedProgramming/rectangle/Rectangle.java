@@ -1,4 +1,4 @@
-package objectOrientedProgramming;
+package objectOrientedProgramming.rectangle;
 
 public class Rectangle {
 

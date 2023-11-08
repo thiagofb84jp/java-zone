@@ -1,4 +1,4 @@
-package objectOrientedProgramming;
+package objectOrientedProgramming.account;
 
 public class Account {
     /**

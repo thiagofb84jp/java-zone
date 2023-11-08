@@ -1,4 +1,4 @@
-package objectOrientedProgramming;
+package objectOrientedProgramming.dog;
 
 public class Dog {
     /**

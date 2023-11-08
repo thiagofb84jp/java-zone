@@ -1,4 +1,4 @@
-package objectOrientedProgramming;
+package objectOrientedProgramming.person;
 
 public class Person {
     /**

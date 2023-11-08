@@ -1,4 +1,4 @@
-package objectOrientedProgramming;
+package objectOrientedProgramming.dog;
 
 public class DogTest {
     public static void main(String[] args) {
