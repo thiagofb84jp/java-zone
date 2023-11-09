@@ -1,4 +1,4 @@
-package w3schools.variables;
+package w3schools.variablesAndDataTypes;
 
 public class DeclareMultipleVariables {
     public static void main(String[] args) {

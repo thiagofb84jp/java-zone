@@ -1,4 +1,4 @@
-package w3schools.variables;
+package w3schools.variablesAndDataTypes;
 
 public class PrintVariables {
     public static void main(String[] args) {

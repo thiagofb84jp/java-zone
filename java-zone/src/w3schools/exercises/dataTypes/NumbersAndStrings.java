@@ -1,6 +1,6 @@
-package w3schools;
+package w3schools.exercises.dataTypes;
 
-public class Numbers {
+public class NumbersAndStrings {
     public static void main(String[] args) {
         // Integer types
         byte byteNum = 100;
