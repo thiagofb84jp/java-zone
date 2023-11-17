@@ -1,6 +1,6 @@
 package w3schools.ifElseStatement;
 
-public class IfElseStatement {
+public class IfElseDemo {
     public static void main(String[] args) {
         // if statement
         if (20 > 18) {
