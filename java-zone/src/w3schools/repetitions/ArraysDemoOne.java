@@ -2,7 +2,7 @@ package w3schools.repetitions;
 
 import java.util.Arrays;
 
-public class ArraysDemo {
+public class ArraysDemoOne {
     public static void main(String[] args) {
         // declaring array elements
         String[] cars;
@@ -21,8 +21,9 @@ public class ArraysDemo {
         pepsiCola[1] = "Cajuína";
         System.out.println(Arrays.toString(pepsiCola)); // print the complete array list again
 
-        // Array Length
-
+        // array length
+        String[] books = { "The Da Vinci Code", "The Crime Book", "The Anne Frank's Diary" };
+        System.out.println(books.length);
 
     }
 }
