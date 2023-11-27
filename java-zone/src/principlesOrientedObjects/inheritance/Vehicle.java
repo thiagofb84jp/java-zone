@@ -3,7 +3,7 @@ package principlesOrientedObjects.inheritance;
 class Vehicle {
 
     private String name;
-    protected String brand = "Ford";
+    private String brand;
     private int year;
 
     public Vehicle() {
@@ -16,6 +16,14 @@ class Vehicle {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public void setBrand(String brand) {
+        this.brand = brand;
     }
 
     public int getYear() {

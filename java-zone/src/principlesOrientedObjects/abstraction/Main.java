@@ -7,5 +7,10 @@ public class Main {
         myPig.animalSound();
         myPig.sleep();
         myPig.eat();
+
+        Dog myDog = new Dog();
+        myDog.animalSound();
+        myDog.sleep();
+        myDog.eat();
     }
 }
